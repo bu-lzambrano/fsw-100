@@ -1,0 +1,47 @@
+li{
+    list-style-type: none;  
+        /*to remove the bullets*/
+
+    margin: 0 2vw;
+    /* to remove browser magin defaults 
+    0 for top/bottom
+    2% for left / right
+    Or to set space between each nagivation item*/
+    font-size: 3vh;
+  }
+
+/*vw stands for viewport-width whereas vh stands for viewport height
+The viewport is the user's visible area of a web page.
+The viewport varies with the device, and will be smaller on a mobile phone than on a computer screen.
+*/
+
+a{
+    text-decoration: none;
+    /*this removes the standard hyperlink underline*/
+        
+    /*we can then change 
+    /*color: black;*/
+    /*some padding*/
+    /*padding: 2vw;*/
+}
+
+a:hover{
+    background-color: #C6E9FF;
+    /*This evaluates if the mouse is over the menu item and thwn swaps the background color of the elemnent*/
+}
+
+nav{
+        width: 100vw; /*use the whole screen or 100%*/
+        background-color: #D6EFFF;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    /*display: flex means the ul elements are displayed in a row (flex-direction: row)*/
+    display: flex;
+  }
+  
+  body{
+    margin: 0;
+  }

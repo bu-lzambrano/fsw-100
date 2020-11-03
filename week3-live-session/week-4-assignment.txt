@@ -1,0 +1,37 @@
+Week 4 assignment (Complete Project 2: Create a Styled Website)
+
+For this assignment, you’ll build on what you’ve learned by creating a basic HTML5 website, 
+but also styling the website, as you apply your CSS coding skills. 
+Your next two projects will be similar to this one, but with more features/tools, 
+so make sure you thoroughly understand how to apply the fundamental tasks included in this project. 
+
+To complete this assignment, you will create a website using HTML and CSS for a fake (or real) business.
+It’s time to not only demonstrate HTML and CSS fundamentals, but also to show off your creativity!
+
+Your website must include:
+
+A navbar (this will be a single page website so functional links are not needed)
+header
+footer
+main section.
+
+    main section must include at minimum:
+      image(s)
+      text
+      list(s)
+      and table(s). 
+
+Feel free to add other elements as you see fit. Remember: coding is about practicing code!
+
+You must use:
+
+The CSS box model to better space elements (making use of margins, borders, and padding).
+The CSS layout position property.
+A google font (you will need to go to fonts.google.com (Links to an external site.) and get the url for a <link /> on their HTML page)
+CSS style sheet (no inline styling)
+HTML5 semantic tags
+
+Note:  
+If we have time in our Week 5 Live Event, you’ll have a chance to present the website you built.
+Another important skill of a web developer is the ability to speak to what, why and how you coded something.
+So, take the chance to practice this skill and volunteer during live class, if given the opportunity!
