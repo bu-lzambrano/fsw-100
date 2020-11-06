@@ -1,7 +1,6 @@
 li{
     list-style-type: none;  
         /*to remove the bullets*/
-
     margin: 0 2vw;
     /* to remove browser magin defaults 
     0 for top/bottom
@@ -26,7 +25,7 @@ a{
 }
 
 a:hover{
-    background-color: #C6E9FF;
+    background-color: #d60707;
     /*This evaluates if the mouse is over the menu item and thwn swaps the background color of the elemnent*/
 }
 
